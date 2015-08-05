@@ -1,0 +1,749 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210
+{\fonttbl\f0\fnil\fcharset0 Consolas;\f1\froman\fcharset0 Times-Roman;\f2\fnil\fcharset0 Consolas-Bold;
+\f3\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red245\green245\blue245;\red221\green50\blue55;}
+\margl1440\margr1440\vieww28600\viewh15500\viewkind0
+\deftab720
+\pard\pardeftab720
+
+\f0\fs28 \cf0 \cb2 \expnd0\expndtw0\kerning0
+#EXTM3U\
+#EXTINF:0,MBC 1\
+http://89.248.171.141/ts60/ch1244/index.m3u8?v=1548652116\
+#EXTINF:0,MBC 2\
+http://89.248.171.141/ts60/ch1246/index.m3u8?v=1548652116\
+#EXTINF:0,MBC 3\
+http://89.248.171.141/ts60/ch1247/index.m3u8?v=1548652116\
+#EXTINF:0,MBC 4\
+http://89.248.171.141/ts60/ch1245/index.m3u8?v=1548652116\
+#EXTINF:0,MBC Action\
+http://89.248.171.141/ts60/ch1252/index.m3u8?v=1548652116\
+#EXTINF:0,MBC Bollywood\
+http://89.248.171.141/ts60/ch1253/index.m3u8?v=1548652116\
+#EXTINF:0,MBC Drama\
+http://89.248.171.141/ts60/ch1248/index.m3u8?v=1548652116\
+#EXTINF:0,MBC Masr\
+http://89.248.171.141/ts60/ch1268/index.m3u8?v=1548652116\
+#EXTINF:0,MBC Max\
+http://89.248.171.141/ts60/ch1254/index.m3u8?v=1548652116\
+\pard\pardeftab720
+
+\f1 \cf0 \cb1 \expnd0\expndtw0\kerning0
+\
+\pard\pardeftab720
+
+\f0 \cf0 \cb2 \expnd0\expndtw0\kerning0
+#EXTM3U\
+#EXTINF:0,DW\
+http://89.248.171.141/ts60/ch1255/index.m3u8?v=1548652116\
+#EXTINF:0,Cairo Drama\
+http://89.248.171.141/ts60/ch1022/index.m3u8?v=1548652116\
+#EXTINF:0,CBC\
+http://89.248.171.141/ts60/ch1173/index.m3u8?v=1548652116\
+#EXTINF:0,CBC Drama\
+http://89.248.171.141/ts60/ch1172/index.m3u8?v=1548652116\
+#EXTINF:0,Dream 1\
+http://89.248.171.141/ts60/ch1232/index.m3u8?v=1548652116\
+#EXTINF:0,Dream 2\
+http://89.248.171.141/ts60/ch1230/index.m3u8?v=1548652116\
+#EXTINF:0,El Hayah 1\
+http://89.248.171.141/ts60/ch1300/index.m3u8?v=1548652116\
+#EXTINF:0,El Hayah 2\
+http://89.248.171.141/ts60/ch1270/index.m3u8?v=1548652116\
+#EXTINF:0,El Masriah TV\
+http://89.248.171.141/ts60/ch1199/index.m3u8?v=1548652116\
+#EXTINF:0,El Mehwar 1\
+http://89.248.171.141/ts60/ch1215/index.m3u8?v=1548652116\
+#EXTINF:0,El Nahar 1\
+http://89.248.171.141/ts60/ch1170/index.m3u8?v=1548652116\
+#EXTINF:0,El Nahar 2\
+http://89.248.171.141/ts60/ch1162/index.m3u8?v=1548652116\
+#EXTINF:0,El Nahar Drama +2\
+http://89.248.171.141/ts60/ch1161/index.m3u8?v=1548652116\
+#EXTINF:0,El Nahar Drama 1\
+http://89.248.171.141/ts60/ch1171/index.m3u8?v=1548652116\
+#EXTINF:0,El Qahera we El Nas\
+http://89.248.171.141/ts60/ch1196/index.m3u8?v=1548652116\
+#EXTINF:0,Abu Dhabi Drama\
+http://89.248.171.141/ts60/ch1311/index.m3u8?v=1548652116\
+#EXTINF:0,OTV Lebanon\
+http://89.248.171.141/ts60/ch1048/index.m3u8?v=1548652116\
+#EXTINF:0,Al Jadeed\
+http://89.248.171.141/ts60/ch1285/index.m3u8?v=1548652116\
+#EXTINF:0,Future TV\
+http://89.248.171.141/ts60/ch1014/index.m3u8?v=1548652116\
+#EXTINF:0,LBC\
+http://89.248.171.141/ts60/ch1020/index.m3u8?v=1548652116\
+#EXTINF:0,LDC Lebanon\
+http://89.248.171.141/ts60/ch1205/index.m3u8?v=1548652116\
+#EXTINF:0,MTV Lebanon\
+http://89.248.171.141/ts60/ch1266/index.m3u8?v=1548652116\
+#EXTINF:0,Nessma TV\
+http://89.248.171.141/ts60/ch1306/index.m3u8?v=1548652116\
+#EXTINF:0,Nile Drama\
+http://89.248.171.141/ts60/ch1224/index.m3u8?v=1548652116\
+#EXTINF:0,Nile Family\
+http://89.248.171.141/ts60/ch1220/index.m3u8?v=1548652116\
+#EXTINF:0,Oscar Drama\
+http://89.248.171.141/ts60/ch1103/index.m3u8?v=1548652116\
+#EXTINF:0,Panorama Drama\
+http://89.248.171.141/ts60/ch1035/index.m3u8?v=1548652116\
+#EXTINF:0,Panorama Drama 2\
+http://89.248.171.141/ts60/ch1319/index.m3u8?v=1548652116\
+#EXTINF:0,Rotana Khalijiah\
+http://89.248.171.141/ts60/ch1140/index.m3u8?v=1548652116\
+#EXTINF:0,Rotana Masriah\
+http://89.248.171.141/ts60/ch1142/index.m3u8?v=1548652116\
+#EXTINF:0,Sada Elbalad Drama\
+http://89.248.171.141/ts60/ch1166/index.m3u8?v=1548652116\
+#EXTINF:0,Sada Elbalad HD\
+http://89.248.171.141/ts60/ch1217/index.m3u8?v=1548652116\
+#EXTINF:0,TV Tunisia 1\
+http://89.248.171.141/ts60/ch1025/index.m3u8?v=1548652116\
+#EXTINF:0,TV Tunisia 2\
+http://89.248.171.141/ts60/ch1024/index.m3u8?v=1548652116\
+#EXTINF:0,Al Baghdadia 1\
+http://89.248.171.141/ts60/ch1243/index.m3u8?v=1548652116\
+#EXTINF:0,Al Iraqiah\
+http://89.248.171.141/ts60/ch1340/index.m3u8?v=1548652116\
+#EXTINF:0,Al Rasheed TV\
+http://89.248.171.141/ts60/ch1046/index.m3u8?v=1548652116\
+#EXTINF:0,Al Sharqiya TV\
+http://89.248.171.141/ts60/ch1185/index.m3u8?v=1548652116\
+#EXTINF:0,Al Sumariah\
+http://89.248.171.141/ts60/ch1288/index.m3u8?v=1548652116\
+#EXTINF:0,Abu Dhabi Drama\
+http://89.248.171.141/ts60/ch1311/index.m3u8?v=1548652116\
+\
+\
+\
+#EXTM3U\
+#EXTINF:-1,Arabic Tv:4Shbab\
+http://38.99.146.36:7777/4Shbab_HD.m3u8\
+#EXTINF:-1,Arabic Tv:7Stars\
+http://38.99.146.36:7777/7Stars_HD.m3u8\
+#EXTINF:-1,Arabic Tv:A1 Jordan\
+http://38.99.146.36:7777/A1Jordan_HD.m3u8\
+#EXTINF:-1,Arabic Tv:AAAMusic\
+http://38.99.146.36:7777/AAAMusic_HD.m3u8\
+#EXTINF:-1,Arabic Tv:ABN\
+http://38.99.146.36:7777/ABN_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Abu Dhabi\
+http://38.99.146.36:7777/ADAlOula_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Abu Dhabi Drama\
+http://38.99.146.36:7777/ADDrama_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Abu Dhabi Emirates\
+http://38.99.146.36:7777/ADEmirates_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Aden\
+http://38.99.146.36:7777/Aden_HD.m3u8\
+#EXTINF:-1,Arabic Tv:National Geo Ad\
+http://38.99.146.36:7777/ADNatGeo_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Abu Dhabi Sports 1\
+http://38.99.146.36:7777/ADSport_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Aghanina\
+http://38.99.146.36:7777/Aghanina_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Aghapy\
+http://38.99.146.36:7777/Aghapy_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Ajman\
+http://38.99.146.36:7777/Ajman_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Ajyal\
+http://38.99.146.36:7777/AjyalTV_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Alan\
+http://38.99.146.36:7777/AlAan_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Adala\
+http://38.99.146.36:7777/AlAdala_HD.m3u8\
+#EXTINF:-1,Arabic Tv:AL AHLY\
+http://38.99.146.36:7777/AlAhlyTV_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Libya\
+http://38.99.146.36:7777/AlAhrar_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Amaken Drama\
+http://38.99.146.36:7777/AlAmakenDrama_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Anwar\
+http://38.99.146.36:7777/AlAnwar_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al oula Maroc\
+http://38.99.146.36:7777/AlAoulaEurope_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Alarabiya\
+http://38.99.146.36:7777/AlArabiya_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Alarabiya Ahdas\
+http://38.99.146.36:7777/AlArabiyaHadath_HD.m3u8\
+#EXTINF:-1,Arabic Tv:EnnaharTV algerie\
+http://38.99.146.36:7777/AlAtlas_HD.m3u8\
+#EXTINF:-1,Arabic Tv:AlBabeleyia\
+http://38.99.146.36:7777/AlBabeleyia_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Baghdadia\
+http://38.99.146.36:7777/AlBaghdadia_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Baghdadia 2\
+http://38.99.146.36:7777/AlBaghdadia2_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Albait Baitak Cinema\
+http://38.99.146.36:7777/AlbaitBaitakCinema_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Dafra\
+http://38.99.146.36:7777/AlDafra_HD.m3u8\
+#EXTINF:-1,Arabic Tv:alkass\
+http://38.99.146.36:7777/AlDawriAlKassSport_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Aldiyar\
+http://38.99.146.36:7777/AldiyarSat_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Ikhbaria\
+http://38.99.146.36:7777/AlEkhbariya_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Eman\
+http://38.99.146.36:7777/AlEman_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Eqtisadiyah\
+http://38.99.146.36:7777/AlEqtisadiyah_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Fayhaa\
+http://38.99.146.36:7777/AlFayhaa_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Forat\
+http://38.99.146.36:7777/AlForat_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Haqeeqa\
+http://38.99.146.36:7777/AlHaqeeqa_HD.m3u8\
+#EXTINF:-1,Arabic Tv:AlHayat_Christian\
+http://38.99.146.36:7777/ALhayat_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Alhayat2\
+http://38.99.146.36:7777/Alhayat2_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Alhayat-Series\
+http://38.99.146.36:7777/AlHayatMousalsalat_HD.m3u8\
+#EXTINF:-1,Arabic Tv:AlHayat Sport\
+http://38.99.146.36:7777/AlHayatSport_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Hiwar\
+http://38.99.146.36:7777/AlHiwar_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Hiwar Ettounsi\
+http://38.99.146.36:7777/Tounisa_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al-hurra Iraq\
+http://38.99.146.36:7777/AlhurraIraq_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Iraqiya Documentary\
+http://38.99.146.36:7777/AlIraqAlTarbawiyah_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Aliraqia 2\
+http://38.99.146.36:7777/AlIraqia2_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Aliraqiya\
+http://38.99.146.36:7777/AlIraqiya_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Aljadeed\
+http://38.99.146.36:7777/AlJadeed_HD.m3u8\
+#EXTINF:-1,Arabic Tv:AlJazeera\
+http://38.99.146.36:7777/AlJazeera_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Aljazeera Doc\
+http://38.99.146.36:7777/AlJazeeraDocument_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Aljazeera En\
+http://38.99.146.36:7777/AlJazeeraEnglish_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Aljazeera US\
+http://38.99.146.36:7777/AlJazeeraInt_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Aljazeera Children\
+http://38.99.146.36:7777/AlJazeeraKid_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Aljazeera Mubasher\
+http://38.99.146.36:7777/AlJazeeraLive_HD.m3u8\
+#EXTINF:-1,Arabic Tv:AlKahera\
+http://38.99.146.36:7777/AlKahera_HD.m3u8\
+#EXTINF:-1,Arabic Tv:AlQahera W Elnas\
+http://38.99.146.36:7777/AlKaheraWalNas_HD.m3u8\
+#EXTINF:-1,Arabic Tv:AlQahera W Elnas 2\
+http://38.99.146.36:7777/AlKaheraWalNas2_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Alkarama_Christian\
+http://38.99.146.36:7777/AlKarma_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Kout\
+http://38.99.146.36:7777/AlKout_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Lubnania\
+http://38.99.146.36:7777/AlLubnania_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Maghribia\
+http://38.99.146.36:7777/AlMaghribia_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Majd\
+http://38.99.146.36:7777/AlmajdSpace_HD.m3u8\
+#EXTINF:-1,Arabic Tv:AlMalakot\
+http://38.99.146.36:7777/AlMalakot_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Manar\
+http://38.99.146.36:7777/AlManar_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Almas\
+http://38.99.146.36:7777/AlMas_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Masar\
+http://38.99.146.36:7777/AlMasar_HD.m3u8\
+#EXTINF:-1,Arabic Tv:AlMasrawia\
+http://38.99.146.36:7777/AlMasrawia_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Masriyah\
+http://38.99.146.36:7777/AlMasriyah_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al mayaden\
+http://38.99.146.36:7777/AlMayadeen_HD.m3u8\
+#EXTINF:-1,Arabic Tv:AlMukhales\
+http://38.99.146.36:7777/AlMukhales_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Moustakilla\
+http://38.99.146.36:7777/AlMustakila_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Nahar\
+http://38.99.146.36:7777/AlNahar_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Alnahar Alyoum\
+http://38.99.146.36:7777/AlNahar2_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al-Nahar Drama\
+http://38.99.146.36:7777/AlNaharDrama_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Nahar 2\
+http://38.99.146.36:7777/AlNaharMovies_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Nahar Sport\
+http://38.99.146.36:7777/AlNaharSport_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Ordonia\
+http://38.99.146.36:7777/AlOrdoni_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Alqithara\
+http://38.99.146.36:7777/AlQithara_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Alqudis\
+http://38.99.146.36:7777/Alquds_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Quran TV ksa\
+http://38.99.146.36:7777/AlQuran_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Rafidain\
+http://38.99.146.36:7777/AlRafidain_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Alrai\
+http://38.99.146.36:7777/Alrai_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Rasheed\
+http://38.99.146.36:7777/AlRasheed_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al-Resalah\
+http://38.99.146.36:7777/AlResala_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Saudia Sport\
+http://38.99.146.36:7777/AlRiyadiah1_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Saudia Sport\
+http://8.21.48.19:7777/AlRiyadiah1_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Sabah\
+http://38.99.146.36:7777/AlSabah_HD.m3u8\
+#EXTINF:-1,Arabic Tv:alsaeedah\
+http://38.99.146.36:7777/AlSaeeda_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al sahraa\
+http://38.99.146.36:7777/AlSahraa_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Shaab\
+http://38.99.146.36:7777/AlShaab_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Sharqiya\
+http://38.99.146.36:7777/AlSharqiya_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Sharqiya News\
+http://38.99.146.36:7777/AlsharqiyaNews_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Ashorooq\
+http://38.99.146.36:7777/AlShrooq_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Sumaria\
+http://38.99.146.36:7777/Alsumaria_HD.m3u8\
+#EXTINF:-1,Arabic Tv:sunnah TV\
+http://38.99.146.36:7777/AlSunnah_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Algharam Cinema\
+http://38.99.146.36:7777/AlTet_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Thakafiyah\
+http://38.99.146.36:7777/AlThakafiyah_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Egypt 2\
+http://38.99.146.36:7777/AlThanya_HD.m3u8\
+#EXTINF:-1,Arabic Tv:alwatan\
+http://38.99.146.36:7777/Alwatan_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Alwatan Plus\
+http://38.99.146.36:7777/AlwatanPlus_HD.m3u8\
+#EXTINF:-1,Arabic Tv:ANB\
+http://38.99.146.36:7777/ANB_HD.m3u8\
+#EXTINF:-1,Arabic Tv:ANN\
+http://38.99.146.36:7777/ANN_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Alaqsa\
+http://38.99.146.36:7777/AqsaSatCh_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Arabica Music\
+http://38.99.146.36:7777/ArabicaMusic_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Arrabia\
+http://38.99.146.36:7777/Arrabiaa_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Alriadia Sport\
+http://38.99.146.36:7777/Arryadia_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Assadissa\
+http://38.99.146.36:7777/Assadissa_HD.m3u8\
+#EXTINF:-1,Arabic Tv:AssyrSat\
+http://38.99.146.36:7777/AssyrSat_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Atfal wa Mawaheb\
+http://38.99.146.36:7777/AtfalwaMawaheb_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Baghdad\
+http://38.99.146.36:7777/Baghdad_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Bahrain\
+http://38.99.146.36:7777/BahrainInt_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Bahrain\
+http://8.21.48.19:7777/BahrainInt_HD.m3u8\
+#EXTINF:-1,Arabic Tv:BAHRAIN SPORTS\
+http://38.99.146.36:7777/BahrainSport_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Baraem\
+http://38.99.146.36:7777/Baraem_HD.m3u8\
+#EXTINF:-1,Arabic Tv:BBC Arabic\
+http://38.99.146.36:7777/BBCArabic_HD.m3u8\
+#EXTINF:-1,Arabic Tv:beINSports\
+http://38.99.146.36:7777/beINSports_HD.m3u8\
+#EXTINF:-1,Arabic Tv:BEIN US\
+http://38.99.146.36:7777/beINSportsNews_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Beladi\
+http://38.99.146.36:7777/Beladi_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Blue Nile\
+http://38.99.146.36:7777/BlueNile_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Cairo Cinema\
+http://38.99.146.36:7777/CairoCinema_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Cairo Comedy\
+http://38.99.146.36:7777/CairoComedy_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Cairo Drama\
+http://38.99.146.36:7777/CairoDrama_HD.m3u8\
+#EXTINF:-1,Arabic Tv:AlGeria\
+http://38.99.146.36:7777/CanalAlgerie_HD.m3u8\
+#EXTINF:-1,Arabic Tv:CBC\
+http://38.99.146.36:7777/CBC_HD.m3u8\
+#EXTINF:-1,Arabic Tv:CBC Extra\
+http://38.99.146.36:7777/CBC2_HD.m3u8\
+#EXTINF:-1,Arabic Tv:CBC Drama\
+http://38.99.146.36:7777/CBCDrama_HD.m3u8\
+#EXTINF:-1,Arabic Tv:CBC Sofra\
+http://38.99.146.36:7777/CBCSofra_HD.m3u8\
+#EXTINF:-1,Arabic Tv:CCTV Arabic\
+http://38.99.146.36:7777/CCTVArabia_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Chabab\
+http://38.99.146.36:7777/Chabab_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Cima\
+http://38.99.146.36:7777/Cima_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Cartoon Network\
+http://38.99.146.36:7777/CNArabia_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Coptic_Christian\
+http://38.99.146.36:7777/CTVEgypt_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Dejlah\
+http://38.99.146.36:7777/Dejlah_HD.m3u8\
+#EXTINF:-1,Arabic Tv:DM\
+http://38.99.146.36:7777/DM_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Dream 1\
+http://38.99.146.36:7777/Dream1_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Dream 2\
+http://38.99.146.36:7777/Dream2_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Dubai\
+http://38.99.146.36:7777/DubaiEurope_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Dubai One\
+http://38.99.146.36:7777/DubaiOne_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Dubai Sport HD2\
+http://38.99.146.36:7777/DubaiSport2_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Dubai Sport HD2\
+http://8.21.48.19:7777/DubaiSport2_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Dubai Sport 3\
+http://38.99.146.36:7777/DubaiSports_HD.m3u8\
+#EXTINF:-1,Arabic Tv:DW Arabic\
+http://38.99.146.36:7777/DWTVArabia_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Mehwar\
+http://38.99.146.36:7777/MehwarPlus2_HD.m3u8\
+#EXTINF:-1,Arabic Tv:ETV1\
+http://38.99.146.36:7777/ETV1_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Euro News Arabic\
+http://38.99.146.36:7777/EuroNews_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Fatafeat\
+http://38.99.146.36:7777/Fatafeat_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Fx Arabia\
+http://38.99.146.36:7777/Fox_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Fox Movies\
+http://38.99.146.36:7777/FoxMovies_HD.m3u8\
+#EXTINF:-1,Arabic Tv:France 24\
+http://38.99.146.36:7777/France24Arabic_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Funoon\
+http://38.99.146.36:7777/Funoon_HD.m3u8\
+#EXTINF:-1,Arabic Tv:{\field{\*\fldinst{HYPERLINK "http://www.sat-universe.com/showthread.php?t=265243&page=9#"}}{\fldrslt 
+\f2\b \cf3 \expnd0\expndtw0\kerning0
+Future
+\f3\b0\fs24 \cf0 \cb1 \expnd0\expndtw0\kerning0
+{{\NeXTGraphic icon1.png \width200 \height200 \noorient
+}¬}}} TV\
+http://38.99.146.36:7777/Future_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Future News\
+http://38.99.146.36:7777/FutureNews_HD.m3u8\
+#EXTINF:-1,Arabic Tv:FutureUSA\
+http://38.99.146.36:7777/FutureUSA_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Jordan\
+http://38.99.146.36:7777/GamarHashimi_HD.m3u8\
+#EXTINF:-1,Arabic Tv:GearOne\
+http://38.99.146.36:7777/GearOne_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Gladiator\
+http://38.99.146.36:7777/Gladiator_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Goan\
+http://38.99.146.36:7777/GoanTV_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Hanibal\
+http://38.99.146.36:7777/Hannibal_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Alhayat 1\
+http://38.99.146.36:7777/Hayat_HD.m3u8\
+#EXTINF:-1,Arabic Tv:HodHod\
+http://38.99.146.36:7777/HodHod_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Huda\
+http://38.99.146.36:7777/Huda_HD.m3u8\
+#EXTINF:-1,Arabic Tv:iFilm Arabic\
+http://38.99.146.36:7777/iFilm_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Imagines Movies\
+http://38.99.146.36:7777/ImagineMovies_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Iqra\
+http://38.99.146.36:7777/Iqraa_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Ishtar\
+http://38.99.146.36:7777/Ishtar_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Jordan Sport\
+http://38.99.146.36:7777/JordanSport_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Aljazeera Mubasher Masr\
+http://38.99.146.36:7777/JSCLiveMisr_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Kaifa\
+http://38.99.146.36:7777/Kaifa_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Karameesh\
+http://38.99.146.36:7777/Karameesh_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Koky Kids\
+http://38.99.146.36:7777/Koky_HD.m3u8\
+#EXTINF:-1,Arabic Tv:KSA 2\
+http://38.99.146.36:7777/KSA2_HD.m3u8\
+#EXTINF:-1,Arabic Tv:KTV2\
+http://38.99.146.36:7777/KTV2Kuwait_HD.m3u8\
+#EXTINF:-1,Arabic Tv:KTV Sport Plus\
+http://38.99.146.36:7777/KTV3Plus_HD.m3u8\
+#EXTINF:-1,Arabic Tv:KTV ARABE\
+http://38.99.146.36:7777/KTVAlArabi_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Kuwait\
+http://38.99.146.36:7777/KuwaitSpace_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Chobra Cima\
+http://38.99.146.36:7777/LayaliCinema_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Lbc Europe\
+http://38.99.146.36:7777/LBC_HD.m3u8\
+#EXTINF:-1,Arabic Tv:LCD AFLAM\
+http://38.99.146.36:7777/LcdTurkey_HD.m3u8\
+#EXTINF:-1,Arabic Tv:LDC\
+http://38.99.146.36:7777/LDC_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Libya 2\
+http://38.99.146.36:7777/Libya_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Libya AlWataniya\
+http://38.99.146.36:7777/LibyaAlWataniya_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Libya Sport 1\
+http://38.99.146.36:7777/LibyaSportChannel1_HD.m3u8\
+#EXTINF:-1,Arabic Tv:LineSport\
+http://38.99.146.36:7777/LineSport_HD.m3u8\
+#EXTINF:-1,Arabic Tv:LLBN\
+http://38.99.146.36:7777/LLBN_HD.m3u8\
+#EXTINF:-1,Arabic Tv:2M\
+http://38.99.146.36:7777/M2Morocco_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Mahbooba\
+http://38.99.146.36:7777/Mahbooba_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Cine Majesti\
+http://38.99.146.36:7777/MajesticCinema_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Mara7\
+http://38.99.146.36:7777/Mara7_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Masrawi Aflam\
+http://38.99.146.36:7777/MasrawiAflam_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Massaya\
+http://38.99.146.36:7777/Massaya_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Mauritanie\
+http://38.99.146.36:7777/MauritaniaTV_HD.m3u8\
+#EXTINF:-1,Arabic Tv:MBC 1\
+http://38.99.146.36:7777/MBC1_HD.m3u8\
+#EXTINF:-1,Arabic Tv:MBC 2\
+http://38.99.146.36:7777/MBC2_HD.m3u8\
+#EXTINF:-1,Arabic Tv:MBC 3\
+http://38.99.146.36:7777/MBC3_HD.m3u8\
+#EXTINF:-1,Arabic Tv:MBC 4\
+http://38.99.146.36:7777/MBC4_HD.m3u8\
+#EXTINF:-1,Arabic Tv:MBC Action\
+http://38.99.146.36:7777/MBCAction_HD.m3u8\
+#EXTINF:-1,Arabic Tv:MBC Bollywood\
+http://38.99.146.36:7777/MBCBollywood_HD.m3u8\
+#EXTINF:-1,Arabic Tv:MBC Drama\
+http://38.99.146.36:7777/MBCDrama_HD.m3u8\
+#EXTINF:-1,Arabic Tv:MBC Masr\
+http://38.99.146.36:7777/MBCMaser_HD.m3u8\
+#EXTINF:-1,Arabic Tv:MBCMasrPlus2\
+http://38.99.146.36:7777/MBCMasrPlus2_HD.m3u8\
+#EXTINF:-1,Arabic Tv:MBC Max\
+http://38.99.146.36:7777/MBCMax_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Mea\
+http://38.99.146.36:7777/MeaTV_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Medi 1 Sat\
+http://38.99.146.36:7777/Medi1_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Mehwar\
+http://8.21.48.19:7777/MehwarPlus2_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Miracle\
+http://38.99.146.36:7777/Miracle_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Maannews\
+http://38.99.146.36:7777/MixTV_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Moga Comedy\
+http://38.99.146.36:7777/MogaComedy_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Cairo Cinema 2\
+http://38.99.146.36:7777/Mosar3_HD.m3u8\
+#EXTINF:-1,Arabic Tv:MTV Arabia\
+http://38.99.146.36:7777/MTVArabia_HD.m3u8\
+#EXTINF:-1,Arabic Tv:MTV\
+http://38.99.146.36:7777/MTVLebanon_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Haneen Music\
+http://38.99.146.36:7777/MusicAlhanen_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Music+</cname>\
+http://38.99.146.36:7777/MusicPlus_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Nart\
+http://38.99.146.36:7777/Nart_HD.m3u8\
+#EXTINF:-1,Arabic Tv:NBN\
+http://38.99.146.36:7777/NBNLebanon_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Neelain Sport\
+http://38.99.146.36:7777/NeelainSport_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Nessma\
+http://38.99.146.36:7777/NessmaAlKhadra_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Nessma\
+http://8.21.48.19:7777/NessmaAlKhadra_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Nile Cinema\
+http://38.99.146.36:7777/NileCinema_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Nile Comedy\
+http://38.99.146.36:7777/NileComedy_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Nile Culture\
+http://38.99.146.36:7777/NileCulture_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Nile Drama\
+http://38.99.146.36:7777/NileDrama_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Nile Drama 2\
+http://38.99.146.36:7777/NileDrama2_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Nile Family\
+http://38.99.146.36:7777/NileFamily_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Nile Tv\
+http://38.99.146.36:7777/NileInt_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Nile Life\
+http://38.99.146.36:7777/NileLife_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Nile News\
+http://38.99.146.36:7777/NileNews_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Nile Sport\
+http://38.99.146.36:7777/NileSport_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Nojoom1\
+http://38.99.146.36:7777/Nojoom1_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Noon Kids\
+http://38.99.146.36:7777/Noon_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Noor Dubai\
+http://38.99.146.36:7777/NoorDubai_HD.m3u8\
+#EXTINF:-1,Arabic Tv:NoursatAlShabab\
+http://38.99.146.36:7777/NourAlShabab_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Syria Nour\
+http://38.99.146.36:7777/NourElSham_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Nourmina\
+http://38.99.146.36:7777/Nourmina_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Noursat\
+http://38.99.146.36:7777/Noursat_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Oman\
+http://38.99.146.36:7777/Oman_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Om Durman\
+http://38.99.146.36:7777/OmDurman_HD.m3u8\
+#EXTINF:-1,Arabic Tv:On TV\
+http://38.99.146.36:7777/ONTV_HD.m3u8\
+#EXTINF:-1,Arabic Tv:ONTV Live\
+http://38.99.146.36:7777/ONTVLive_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Orient News\
+http://38.99.146.36:7777/OrientNews_HD.m3u8\
+#EXTINF:-1,Arabic Tv:ORTM\
+http://38.99.146.36:7777/ORTM_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Oscar Drama\
+http://38.99.146.36:7777/OscarDrama_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Oscar Drama 2\
+http://38.99.146.36:7777/OscarDrama2_HD.m3u8\
+#EXTINF:-1,Arabic Tv:OTV Lebanon\
+http://38.99.146.36:7777/OTV_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Oyoun Jeddah\
+http://38.99.146.36:7777/OyounJeddah_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Palestine AlYawm\
+http://38.99.146.36:7777/PalestineAlYawm_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Palestine Live\
+http://38.99.146.36:7777/PalestineLive_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Palestine\
+http://38.99.146.36:7777/Palestinian_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Panorama Drama\
+http://38.99.146.36:7777/PanoramaDrama_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Panorama Drama 2\
+http://38.99.146.36:7777/PanoramaDrama2_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Panorama film\
+http://38.99.146.36:7777/PanoramaFilm_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Qatar\
+http://38.99.146.36:7777/Qatar_HD.m3u8\
+#EXTINF:-1,Arabic Tv:RAK\
+http://38.99.146.36:7777/RAK_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Rotana Aflam\
+http://38.99.146.36:7777/RotanaAflam_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Rotana Cinema\
+http://38.99.146.36:7777/RotanaCinema_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Rotana Clip\
+http://38.99.146.36:7777/RotanaClip_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Rotana Khaligi\
+http://38.99.146.36:7777/RotanaKhalijiah_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Rotana Masriya\
+http://38.99.146.36:7777/RotanaMasriya_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Rotana Music\
+http://38.99.146.36:7777/RotanaMusic_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Rotana Classic\
+http://38.99.146.36:7777/RotanaZaman_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Roya\
+http://38.99.146.36:7777/Roya_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Royal Albadawiya\
+http://38.99.146.36:7777/RoyalAlBadawia_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Royal Edhak\
+http://38.99.146.36:7777/RoyalEdhak_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Royal Secret\
+http://38.99.146.36:7777/RoyalSecrets_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Djibouti\
+http://38.99.146.36:7777/RTD_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Russia Alyaum\
+http://38.99.146.36:7777/RussiyaAlYaum_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Sada Al Balad\
+http://38.99.146.36:7777/SadaAlBalad_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Sada AlBalad Drama\
+http://38.99.146.36:7777/SadaAlBaladDrama_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Sama Cinema\
+http://38.99.146.36:7777/SamaCinema_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Sama Dubai\
+http://38.99.146.36:7777/SamaDubai_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Sama Syria\
+http://38.99.146.36:7777/SamaTV_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Samira TV\
+http://38.99.146.36:7777/SamiraTV_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Sat7 Kid\
+http://38.99.146.36:7777/Sat7Kid_HD.m3u8\
+#EXTINF:-1,Arabic Tv:KSA 1\
+http://38.99.146.36:7777/SaudiArabia1_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Scope\
+http://38.99.146.36:7777/ScopeTV_HD.m3u8\
+#EXTINF:-1,Arabic Tv:SM SM KIDS\
+http://38.99.146.36:7777/Semsem_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Sharjah\
+http://38.99.146.36:7777/SharjahTV_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Sheba\
+http://38.99.146.36:7777/Sheba_HD.m3u8\
+#EXTINF:-1,Arabic Tv:SkyNewsArabia\
+http://38.99.146.36:7777/SkyNews_HD.m3u8\
+#EXTINF:-1,Arabic Tv:SNTV\
+http://38.99.146.36:7777/SNTV_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Space Power\
+http://38.99.146.36:7777/SpacePower_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Spacetoon\
+http://38.99.146.36:7777/SpaceToonArabic_HD.m3u8\
+#EXTINF:-1,Arabic Tv:SSTV\
+http://38.99.146.36:7777/SSTV_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Star 1 Cinema\
+http://38.99.146.36:7777/StarCinema1_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Star 2 Cinema\
+http://38.99.146.36:7777/StarCinema2_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Sudan TV\
+http://38.99.146.36:7777/Sudan_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Syria Drama\
+http://38.99.146.36:7777/SyriaDrama_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Syria Sedu\
+http://38.99.146.36:7777/SyrianEducation_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Syria\
+http://38.99.146.36:7777/SyriaSat_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Taha\
+http://38.99.146.36:7777/Taha_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Tahrir\
+http://38.99.146.36:7777/Tahrir_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Syria Talaqie\
+http://38.99.146.36:7777/Talaqi_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Tamazigh Maroc\
+http://38.99.146.36:7777/Tamazight_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Tayba\
+http://38.99.146.36:7777/Tayba_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Tele Liban\
+http://38.99.146.36:7777/TeleLiban_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Algeria 3\
+http://38.99.146.36:7777/Thalitha_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Time Cinema\
+http://38.99.146.36:7777/TimeCinema_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Time Drama\
+http://38.99.146.36:7777/TimeDrama_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Taxi El Sahra\
+http://38.99.146.36:7777/TimeTiatro_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Top Movies\
+http://38.99.146.36:7777/TopMovies_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Al Hiwar Ettounsi\
+http://8.21.48.19:7777/Tounisa_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Toyor Al Janah\
+http://38.99.146.36:7777/ToyorAlJanah_HD.m3u8\
+#EXTINF:-1,Arabic Tv:TRT Arabic\
+http://38.99.146.36:7777/TRTArabic_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Tounesna\
+http://38.99.146.36:7777/Tunisia_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Tunisia national 1\
+http://38.99.146.36:7777/Tunisie7_HD.m3u8\
+#EXTINF:-1,Arabic Tv:TV 5 MONDE\
+http://38.99.146.36:7777/TV5_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Unrwa\
+http://38.99.146.36:7777/Unrwa_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Wanasah\
+http://38.99.146.36:7777/Wanasah_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Yemen\
+http://38.99.146.36:7777/Yemen_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Zee Aflam\
+http://38.99.146.36:7777/ZeeAflam_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Zee Alwan\
+http://38.99.146.36:7777/ZeeAlwan_HD.m3u8\
+#EXTINF:-1,Arabic Tv:Zweina Bladna\
+http://38.99.146.36:7777/ZweinaBaladna_HD.m3u8}
